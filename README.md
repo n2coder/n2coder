@@ -31,10 +31,6 @@ Transitioning from **13+ years in IT Recruitment** to **Full-Stack Engineering**
 * **The Solution:** Built a custom NLP engine that parses resumes (PDF/DOCX) and calculates a **Cosine Similarity Score** against job descriptions.
 * **Tech:** Django, Scikit-Learn (TF-IDF), PostgreSQL, Docker.
 
----
-
-### 📈 GitHub Stats
-![Naresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=n2coder&show_icons=true&theme=radical)
 
 ---
 
