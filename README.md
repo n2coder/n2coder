@@ -4,7 +4,7 @@
 
 I am a software engineer with a unique advantage: **I don't just write code; I solve business problems I've lived through.**
 
-Transitioning from **13+ years in IT Recruitment** to **Full-Stack Engineering**, I specialize in building data-driven applications that bridge the gap between human needs and technical solutions. My focus is on robust backend architectures, AI integration, and scalable system design.
+Transitioning from **IT Recruitment** to **Full-Stack Engineering**, I specialize in building data-driven applications that bridge the gap between human needs and technical solutions. My focus is on robust backend architectures, AI integration, and scalable system design.
 
 ---
 
