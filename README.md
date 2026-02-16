@@ -2,8 +2,9 @@
 
 **Python Backend Developer | AI Application Engineer | Builder of Production AI Tools**
 
-I build practical AI products that solve real business problems.  
-With a background in **IT Recruitment** and hands-on engineering in **backend systems + LLM apps**, I focus on building secure, scalable, and user-facing AI platforms.
+Applied AI & Backend Engineer specializing in AI-integrated backend systems, semantic search pipelines, and Retrieval-Augmented Generation (RAG) architectures.
+Designed and deployed AI-powered recruitment systems combining vector databases (ChromaDB), sentence-transformer embeddings, and multi-LLM pipelines (Mistral-7B, GPT-4o-mini) using FastAPI and Django.
+
 
 ---
 
