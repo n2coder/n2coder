@@ -66,7 +66,7 @@ I focus on building **end-to-end AI systems that move from idea → architecture
 
 ### 🏆 Featured Projects
 
-#### 🎬 [Multilingual Voice AI Movie Assistant](https://github.com/n2coder)
+#### 🎬 [Multilingual Voice AI Movie Assistant](https://github.com/n2coder/LumaMovieAgent)
 
 *A conversational AI system that allows users to discover movies using voice queries.*
 
