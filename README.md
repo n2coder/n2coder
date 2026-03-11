@@ -12,10 +12,10 @@ I focus on building **end-to-end AI systems that move from idea → architecture
 
 ---
 
-### 🚀 What I’m Building
-- **🎬 Multilingual Voice AI Movie Assistant**  
+### 🚀 What I have Built
+- [**🎬 Multilingual Voice AI Movie Assistant**](https://lumamovieai.onrender.com/)
   A conversational voice-enabled movie discovery system supporting multilingual speech input, semantic movie search, and AI-generated recommendations using LLM reasoning.
-- **AI Career Platform (`Lin.O`)**  
+- [**AI Career Platform (`Lin.O`)**](https://career-agent-ooiz.onrender.com/)
   A production-ready career assistant for roadmap guidance, resume analysis, skill-gap insights, salary guidance, and resume generation.
 - **Backend Engineering**  
   Designing robust APIs and service architecture using **FastAPI** and Python.
