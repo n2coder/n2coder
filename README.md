@@ -12,8 +12,8 @@ My work focuses on building **end-to-end AI products** — from backend systems 
 
 * 🧠 **Personal AI Assistants** — private, memory-aware AI systems
 * 🤖 **Multi-Agent Platforms** — supervisor-based architectures (LangGraph)
-* 🔍 **RAG Systems** — grounded, retrieval-first AI pipelines
-* 🎙 **Voice AI Systems** — Speech-to-Text → LLM → Text-to-Speech
+* 🔍 [**RAG Systems**](https://github.com/n2coder/Career-Agent) — grounded, retrieval-first AI pipelines
+* 🎙 [**Voice AI Systems**](https://github.com/n2coder/LumaMovieAgent) — Speech-to-Text → LLM → Text-to-Speech
 * 📱 [**AI-Powered Mobile Apps**](https://github.com/n2coder/DrapeAI) — real-world consumer AI products
 
 ---
