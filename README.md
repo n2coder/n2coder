@@ -14,7 +14,7 @@ My work focuses on building **end-to-end AI products** — from backend systems 
 * 🤖 **Multi-Agent Platforms** — supervisor-based architectures (LangGraph)
 * 🔍 **RAG Systems** — grounded, retrieval-first AI pipelines
 * 🎙 **Voice AI Systems** — Speech-to-Text → LLM → Text-to-Speech
-* 📱 **AI-Powered Mobile Apps** — real-world consumer AI products
+* 📱 [**AI-Powered Mobile Apps**](https://github.com/n2coder/DrapeAI) — real-world consumer AI products
 
 ---
 
