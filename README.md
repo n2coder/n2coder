@@ -8,13 +8,14 @@ My work focuses on building **end-to-end AI products** — from backend systems 
 
 ---
 
-## 🚀 What I’m Building
+### 🚀 LIVE AI APPLICATIONS
 
-* 🧠 **Personal AI Assistants** — private, memory-aware AI systems
-* 🤖 **Multi-Agent Platforms** — supervisor-based architectures (LangGraph)
-* 🔍 [**RAG Systems**](https://github.com/n2coder/Career-Agent) — grounded, retrieval-first AI pipelines
-* 🎙 [**Voice AI Systems**](https://github.com/n2coder/LumaMovieAgent) — Speech-to-Text → LLM → Text-to-Speech
-* 📱 [**AI-Powered Mobile Apps**](https://github.com/n2coder/DrapeAI) — real-world consumer AI products
+| Project | Description | Live Link |
+| :--- | :--- | :--- |
+| **AI Career Agent** | Resume Analysis & Recommendation System using **RAG**  | [View Live](https://career-agent-ooiz.onrender.com/)  |
+| **Luma** | Voice-Based AI Movie Assistant with **LLM + Voice/Speech Pipeline**  | [View Live](https://lumamovieai.onrender.com/)  |
+| **DrapeAI** | **AI Fashion Recommendation System** for personalized styling | [View Live](https://drape-ai.onrender.com/)  |
+| **Ultra Doc Intelligence Agent** | Advanced document processing with **Optimized RAG + LLM** | [View Live](https://ultra-doc-intelligence-mwcs.onrender.com/) |
 
 ---
 
