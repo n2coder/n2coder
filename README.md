@@ -12,7 +12,7 @@ My work focuses on building **end-to-end AI products** — from backend systems 
 
 | Project | Description | Live Link |
 | :--- | :--- | :--- |
-| **AI Career Agent** | Resume Analysis & Recommendation System using **RAG**  | [View Live](https://career-agent-ooiz.onrender.com/)  |
+| **AI Career Agent** | Resume Analysis & Recommendation System using **RAG**  | [View Live](https://career-agent-kdfk.onrender.com)  |
 | **Luma** | Voice-Based AI Movie Assistant with **LLM + Voice/Speech Pipeline**  | [View Live](https://lumamovieagent-2roo.onrender.com) |
 | **DrapeAI** | **AI Fashion Recommendation System** for personalized styling | [View Live](https://drape-ai.onrender.com/)  |
 | **Ultra Doc Intelligence Agent** | Advanced document processing with **Optimized RAG + LLM** | [View Live](https://ultra-doc-intelligence-mwcs.onrender.com/) |
