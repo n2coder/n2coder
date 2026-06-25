@@ -1,10 +1,29 @@
-# 👋 Hi, I'm Naresh Chaudhary
+### Naresh Chaudhary
+**AI Solution Architect — Enterprise AI Transformation & Agentic Systems**
 
-### 🧠 Applied AI & Agentic Systems Engineer
+I help organizations turn AI from experiment into enterprise capability. Over
+15+ years I've partnered with founders, CXOs, and global teams across India,
+the US, Europe, and Japan — translating business problems into AI architecture,
+revenue intelligence, and platform modernization that delivers measurable impact.
 
-I design and build **production-grade AI systems** using LLMs, Retrieval-Augmented Generation (RAG), and multi-agent architectures.
+Today I lead AI and platform modernization for a finance-focused EdTech
+enterprise: architecting revenue-intelligence systems, agentic automation, and
+unified platforms across Sales, Marketing, LMS, and AI services.
 
-My work focuses on building **end-to-end AI products** — from backend systems and retrieval pipelines to voice interfaces and mobile applications.
+---
+
+#### Focus Areas
+- **Enterprise AI Strategy** — AI roadmaps, readiness, adoption, and transformation
+- **Agentic & Multi-Agent Architecture** — orchestration, AI memory, enterprise workflow automation
+- **Revenue & Business Intelligence** — CRM, telephony & marketing integration, executive analytics
+- **RAG & Document Intelligence** — enterprise knowledge retrieval and recommendation systems
+- **Voice AI** — multilingual, real-time conversational platforms
+
+#### Representative Work
+Architected and delivered an **AI Revenue Intelligence platform** unifying CRM,
+telephony, admissions, and marketing, with executive dashboards for revenue
+attribution and conversion intelligence. Led modernization of a unified
+enterprise platform spanning Sales, Marketing, LMS, Content, and AI services.
 
 ---
 
@@ -15,7 +34,17 @@ My work focuses on building **end-to-end AI products** — from backend systems 
 | **AI Career Agent** | Resume Analysis & Recommendation System using **RAG**  | [View Live](https://career-agent-kdfk.onrender.com)  |
 | **Luma** | Voice-Based AI Movie Assistant with **LLM + Voice/Speech Pipeline**  | [View Live](https://lumamovieagent-2roo.onrender.com) |
 | **DrapeAI** | **AI Fashion Recommendation System** for personalized styling | [View Live](https://drape-ai.onrender.com/)  |
+| **KunaliAI** | **NASAs JPL Based Astrology Engine** for personalized predictions | [View Live](https://drape-ai.onrender.com/)  |
 | **Ultra Doc Intelligence Agent** | Advanced document processing with **Optimized RAG + LLM** | [View Live](https://ultra-doc-intelligence-mwcs.onrender.com/) |
+
+
+#### 🚀 Selected Projects
+- **[AgentsMarketplace]** — Multi-agent orchestration platform (LangGraph, FastAPI, Postgres, Redis)
+- **[Career-Agent](https://github.com/n2coder/Career-Agent)** — RAG-based resume intelligence & skill-gap engine
+- **[LumaMovieAgent](https://github.com/n2coder/LumaMovieAgent)** — Voice-based AI assistant with conversational memory
+- **[DrapeAI](https://github.com/n2coder/DrapeAI)** — AI fashion recommendation with vision-powered wardrobe digitization
+- **[ai-job-board](https://github.com/n2coder/ai-job-board)** — AI-driven recruitment & candidate matching
+- **[KundaliAI](https://github.com/n2coder/KundaliAI)** — AI Vedic astrology product (Flutter + FastAPI)
 
 ---
 
@@ -96,11 +125,6 @@ I build AI systems with a focus on:
 * Real-world usability over demos
 * Product-first thinking (not just models)
 
----
-
-## 🎯 Background
-
-I bring **15+ years of recruitment experience**, which helps me design AI systems grounded in real-world decision-making.
 
 Currently pursuing **M.Tech in AI/ML (BITS Pilani)**.
 
