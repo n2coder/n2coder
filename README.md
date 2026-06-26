@@ -34,7 +34,7 @@ enterprise platform spanning Sales, Marketing, LMS, Content, and AI services.
 | **AI Career Agent** | Resume Analysis & Recommendation System using **RAG**  | [View Live](https://career-agent-kdfk.onrender.com)  |
 | **Luma** | Voice-Based AI Movie Assistant with **LLM + Voice/Speech Pipeline**  | [View Live](https://lumamovieagent-2roo.onrender.com) |
 | **DrapeAI** | **AI Fashion Recommendation System** for personalized styling | [View Live](https:///)  |
-| **KunaliAI** | **NASAs JPL Based Astrology Engine** for personalized predictions | [View Live](https://htkundaliai-rzkr.onrender.com/)  |
+| **KunaliAI** | **NASAs JPL Based Astrology Engine** for personalized predictions | [View Live](https://kundaliai-rzkr.onrender.com/)  |
 | **Ultra Doc Intelligence Agent** | Advanced document processing with **Optimized RAG + LLM** | [View Live](https://ultra-doc-intelligence-mwcs.onrender.com/) |
 
 
